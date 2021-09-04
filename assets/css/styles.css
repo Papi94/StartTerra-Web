@@ -1,0 +1,305 @@
+#iypqgh4 {
+	font-size: 21px;
+}
+
+#iwm39a {
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+	border-bottom-left-radius: 50%;
+}
+
+#i57nga4 {
+	font-size: 25px;
+}
+
+#ikjko3 {
+	font-size: 25px;
+}
+
+#ibwc7l {
+	font-size: 25px;
+}
+
+body {
+	background-color: rgb(249, 249, 249);
+}
+
+.card-text.product-card-text {
+	font-size: 13px;
+}
+
+.card-body.product-card-body {
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+.container.c28464 {
+	margin-top: 30px;
+}
+
+.ph-body {
+	background-color: rgb(244, 244, 244);
+}
+
+.c9286 {
+	fill: rgb(204, 0, 91);
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-white {
+	background-color: rgb(248, 249, 250);
+}
+
+.c12166 {
+	fill: rgb(204, 0, 91);
+}
+
+.btn-upvote {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.card.ad-card {
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+.card-img.product-img {
+	width: 118.656px;
+}
+
+.c16766 {
+	color: inherit;
+	font-family: inherit;
+	font-size: 1.25rem;
+}
+
+.fa-base-color {
+	color: rgb(204, 0, 91);
+}
+
+.badge-base-color {
+	background-color: rgb(204, 0, 91);
+	color: rgb(255, 255, 255);
+}
+
+div.checkbox.switcher label,
+div.radio.switcher label {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+div.checkbox.switcher label *,
+div.radio.switcher label * {
+	vertical-align: middle;
+}
+
+div.checkbox.switcher label input,
+div.radio.switcher label input {
+	display: none;
+}
+
+div.checkbox.switcher label input + span,
+div.radio.switcher label input + span {
+	position: relative;
+	display: inline-block;
+	margin-right: 10px;
+	width: 56px;
+	height: 28px;
+	background-image: initial;
+	background-position-x: initial;
+	background-position-y: initial;
+	background-size: initial;
+	background-attachment: initial;
+	background-origin: initial;
+	background-clip: initial;
+	background-color: rgb(242, 242, 242);
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: rgb(238, 238, 238);
+	border-right-color: rgb(238, 238, 238);
+	border-bottom-color: rgb(238, 238, 238);
+	border-left-color: rgb(238, 238, 238);
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: initial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	transition-duration: 0.3s;
+	transition-timing-function: ease-in-out;
+	transition-delay: 0s;
+	transition-property: all;
+}
+
+div.checkbox.switcher label input + span small,
+div.radio.switcher label input + span small {
+	position: absolute;
+	display: block;
+	width: 50%;
+	height: 100%;
+	background-image: initial;
+	background-position-x: initial;
+	background-position-y: initial;
+	background-size: initial;
+	background-attachment: initial;
+	background-origin: initial;
+	background-clip: initial;
+	background-color: rgb(255, 255, 255);
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+	border-bottom-left-radius: 50%;
+	transition-duration: 0.3s;
+	transition-timing-function: ease-in-out;
+	transition-delay: 0s;
+	transition-property: all;
+	left: 0px;
+}
+
+div.checkbox.switcher label input:checked + span,
+div.radio.switcher label input:checked + span {
+	background-image: initial;
+	background-position-x: initial;
+	background-position-y: initial;
+	background-size: initial;
+	background-attachment: initial;
+	background-origin: initial;
+	background-clip: initial;
+	background-color: rgb(38, 155, 255);
+	border-top-color: rgb(38, 155, 255);
+	border-right-color: rgb(38, 155, 255);
+	border-bottom-color: rgb(38, 155, 255);
+	border-left-color: rgb(38, 155, 255);
+}
+
+div.checkbox.switcher label input:checked + span small,
+div.radio.switcher label input:checked + span small {
+	left: 50%;
+}
+
+.profile-info {
+	width: 300px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+.heading.text-white {
+	text-align: left;
+}
+
+.paragraph {
+	text-align: justify;
+}
+
+.rounded {
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+	border-bottom-left-radius: 50%;
+}
+
+.link a:hover {
+	text-decoration-line: none;
+	text-decoration-style: initial;
+	text-decoration-color: initial;
+}
+
+.d-block.pt-2.vote-oute {
+	font-size: 12px;
+}
+
+#id8ifk {
+	font-size: 25px;
+}
+
+#ihi1il {
+	font-size: 25px;
+}
+
+#imx6jb {
+	font-size: 25px;
+}
+
+#ifxcee {
+	font-size: 25px;
+}
+
+@media (max-width: 992px) {
+	.heading.text-white {
+		text-align: center;
+	}
+
+	.bdg-sect.text-center.text-light {
+		margin-top: 12px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+	}
+
+	.paragraph {
+		text-align: center;
+	}
+
+	.row.p-3.mx-auto.text-light.m-3 {
+		text-align: center;
+	}
+}
+
+@media (max-width: 480px) {
+	.btn.btn-outline-secondary.btn-lg.btn-upvote {
+		width: auto;
+		height: auto;
+	}
+
+	.btn.btn-outline-secondary.btn-upvote {
+		width: 40px;
+		padding-top: 5px;
+		padding-right: 0px;
+		padding-bottom: 6px;
+		padding-left: 0px;
+	}
+
+	.card-img.product-img {
+		height: 50px;
+		width: 50px;
+		margin-top: 15px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+		margin-left: 4px;
+		padding-top: 0px;
+		padding-right: 0px;
+		padding-bottom: 0px;
+		padding-left: 0px;
+	}
+
+	.btn.btn-sm.btn-danger.follow-btn {
+		margin-top: 14px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+		float: none;
+		display: inline-block;
+	}
+}
